@@ -117,6 +117,8 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 * [Handmade Hero](https://handmadehero.org)
 * [How to Make Minecraft in C++/OpenGL](https://www.youtube.com/playlist?list=PLMZ_9w2XRxiZq1vfw1lrpCMRDufe2MKV_) (video)
 
+[🔝](#table-of-contents)
+
 ## C#:
 
 * [Learn C# By Building a Simple RPG Game](http://scottlilly.com/learn-c-by-building-a-simple-rpg-index/)
@@ -145,6 +147,8 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 * [Build a Simple HTTP Server with Java](http://javarevisited.blogspot.com/2015/06/how-to-create-http-server-in-java-serversocket-example.html)
 * [Build an Android Flashlight App](https://www.youtube.com/watch?v=dhWL4DC7Krs) (video)
 * [Build a Spring Boot App with User Authentication](https://scotch.io/tutorials/build-a-spring-boot-app-with-user-authentication)
+
+[🔝](#table-of-contents)
 
 ## JavaScript:
 
@@ -187,6 +191,8 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 * [Build an Appointment Scheduler](https://hackernoon.com/build-an-appointment-scheduler-using-react-twilio-and-cosmic-js-95377f6d1040)
 * [Build A Chat App with Sentiment Analysis](https://codeburst.io/build-a-chat-app-with-sentiment-analysis-using-next-js-c43ebf3ea643)
 * [Build A Full Stack Web Application Setup](https://hackernoon.com/full-stack-web-application-using-react-node-js-express-and-webpack-97dbd5b9d708)
+
+[🔝](#table-of-contents)
 
 #### Angular:
 
@@ -235,6 +241,8 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 * [Build A Native Desktop App with JS](https://medium.freecodecamp.org/build-native-desktop-apps-with-javascript-a49ede90d8e9)
 * Build a Powerful API with NodeJs,GraphQL and Hapi
   * [Part I](https://medium.com/@wesharehoodies/how-to-setup-a-powerful-api-with-nodejs-graphql-mongodb-hapi-and-swagger-e251ac189649)
+  
+[🔝](#table-of-contents)
 
 #### D3.js
 
@@ -255,6 +263,8 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   * [Part 2](https://scotch.io/tutorials/build-a-music-player-with-react-electron-ii-making-the-ui)
   * [Part 3](https://scotch.io/tutorials/build-a-music-player-with-react-electron-iii-bringing-it-all-together)
 * (Build A Desktop Chat App with React and Electron)[https://medium.freecodecamp.org/build-a-desktop-chat-app-with-react-electron-and-chatkit-744d168e6f2f]
+
+[🔝](#table-of-contents)
 
 ### Miscellaneous:
 
@@ -288,6 +298,8 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   * [Part 13: Skill Tree](https://github.com/SSYGEN/blog/issues/27)
   * [Part 14: Console](https://github.com/SSYGEN/blog/issues/28)
   * [Part 15: Final](https://github.com/SSYGEN/blog/issues/29)
+  
+  [🔝](#table-of-contents)
 
 ## Python:
 
@@ -362,6 +374,8 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 * [Text Skew Correction Tutorial](https://www.pyimagesearch.com/2017/02/20/text-skew-correction-opencv-python/)
 * [Facial Landmark Detection Tutorial](https://www.pyimagesearch.com/2017/04/03/facial-landmarks-dlib-opencv-python/)
 
+[🔝](#table-of-contents)
+
 ### Deep Learning:
 
 * [Using Convolutional Neural Nets to Detect Facial Keypoints](http://danielnouri.org/notes/2014/12/17/using-convolutional-neural-nets-to-detect-facial-keypoints-tutorial/)
@@ -412,6 +426,8 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 * [Build the Game of Life](https://robertheaton.com/2018/07/20/project-2-game-of-life/)
 * [Create terminal ASCII art](https://robertheaton.com/2018/06/12/programming-projects-for-advanced-beginners-ascii-art/)
 
+[🔝](#table-of-contents)
+
 ## Go:
 
 * [Create a Real Time Chat App with Golang, Angular 2, and WebSocket](https://www.thepolyglotdeveloper.com/2016/12/create-real-time-chat-app-golang-angular-2-websockets/)
@@ -442,9 +458,9 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   * [Part 4: Authentication](https://medium.com/@ashokgelal/a-full-featured-multi-tenant-app-with-laravel-part-4-tenancy-aware-authentication-e0ee37270bc8)
   * [Part 5: Testing](https://medium.com/@ashokgelal/a-full-featured-multi-tenant-app-with-laravel-part-2-unit-tests-96d6dfbf0617)
   * [Part 6: User Profile](https://medium.com/@ashokgelal/a-full-featured-multi-tenant-app-with-laravel-part-5-user-profile-5c3d0c655f3a)
-  * [Part 7: Deployment](https://medium.com/@ashokgelal/a-full-featured-multi-tenant-app-with-laravel-part-7-deployment-40bb3c895627
-)
+  * [Part 7: Deployment](https://medium.com/@ashokgelal/a-full-featured-multi-tenant-app-with-laravel-part-7-deployment-40bb3c895627)
   
+  [🔝](#table-of-contents)
 
 ## OCaml:
 
@@ -506,3 +522,5 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 * [Michael Herman's Blog](http://mherman.org/)
 * [Thinkster.io](http://thinkster.io)
 * [C Project Based Tutorials](https://www.reddit.com/r/C_Programming/comments/872rlt/c_project_based_tutorials/)
+
+[🔝](#table-of-contents)
